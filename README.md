@@ -1,0 +1,1 @@
+# Ass_str.prog
